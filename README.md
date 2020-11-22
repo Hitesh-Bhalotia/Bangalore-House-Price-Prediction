@@ -15,3 +15,4 @@ This model is complete and is able to predict the prices with an accuracy of >90
 - HTML , CSS, Javascript
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/43265237/99907545-4aeb0480-2d03-11eb-944c-55ff70d3d930.png)
